@@ -5,3 +5,7 @@ function greet(name) {
 }
 
 greet("Alice");
+
+function add(a, b) {   
+    return a + b;}
+    add(5, 3);
